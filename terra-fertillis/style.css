@@ -1,3 +1,4 @@
+ @import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
 * {
     /* PEGA TODA A PAGINA,
     OU SEJA EU CONSIGO FORMATAR A PG TODA POR AQUI,
@@ -43,7 +44,7 @@
 } */
 
 #home {
-    background: linear-gradient(rgba(44, 40, 40, 0.514), rgba(48, 42, 42, 0.5)), url(/img/background1.jpg);
+    background: linear-gradient(rgba(44, 40, 40, 0.514), rgba(48, 42, 42, 0.5)), url(/img/background1\ -\ senac.jpg);
     height: 100vh;
     background-size: cover;
     /*PEGA A MELHOR POSIÇÃO DA IMAGEM E AJEITA ELA NA TELA */
